@@ -22,6 +22,12 @@ _Adjustments:_
 The script name is argv[0]
 Looping over the arguments starting from index 1 in order to skip printing argv[0].
 
+**Task 2:**
+
+This code mixes html and java script in the same files which is totally legit. 
+
+_Adjustments:_
+The error is in the name of the variables which is subject to a typo. 
 
 
  
