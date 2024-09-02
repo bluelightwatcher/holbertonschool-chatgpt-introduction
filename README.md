@@ -13,6 +13,16 @@ _Adjustments:_
 - Recursive call to the function adjusted
 - Conditions if, or added to the base case for proper resolution
 
+**Task 1:**
+
+The code is printing the script name when only the arguments are necessary
+
+_Adjustments:_
+
+The script name is argv[0]
+Looping over the arguments starting from index 1 in order to skip printing argv[0].
+
+
 
  
 
